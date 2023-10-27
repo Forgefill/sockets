@@ -1,0 +1,12 @@
+# ninja log v5
+0	136	7201164069031341	build.ninja	6efc3b7caa4a9f65
+0	521	7201164074899626	CMakeFiles/asyncSocketServer.dir/main.c.obj	b4f9aa6834cba2fe
+522	649	7201164076134484	asyncSocketServer.exe	31ef49b15c013586
+1	710	7201165305156170	CMakeFiles/asyncSocketServer.dir/main.c.obj	b4f9aa6834cba2fe
+711	791	7201165305905228	asyncSocketServer.exe	31ef49b15c013586
+2	770	7201165378064531	CMakeFiles/asyncSocketServer.dir/main.c.obj	b4f9aa6834cba2fe
+771	858	7201165378888508	asyncSocketServer.exe	31ef49b15c013586
+2	744	7201167141617217	CMakeFiles/asyncSocketServer.dir/main.c.obj	b4f9aa6834cba2fe
+1	88	7201167164828154	asyncSocketServer.exe	31ef49b15c013586
+1	761	7201167975356728	CMakeFiles/asyncSocketServer.dir/main.c.obj	b4f9aa6834cba2fe
+762	846	7201167976151526	asyncSocketServer.exe	31ef49b15c013586

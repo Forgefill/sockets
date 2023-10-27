@@ -1,0 +1,4 @@
+# ninja log v5
+2	743	7201214388894426	CMakeFiles/nonBlockingSocketServer.dir/main.c.obj	7ce4fda023f42ab0
+1	111	7201218843388521	build.ninja	9d8878d34f72b88
+744	829	7201214389704985	nonBlockingSocketServer.exe	6f657a3d86de6932

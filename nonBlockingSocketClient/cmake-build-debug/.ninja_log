@@ -1,0 +1,8 @@
+# ninja log v5
+1	170	7201203126525527	build.ninja	ea36be63d9bb9d5f
+0	837	7201203135808386	CMakeFiles/nonBlockingSocketClient.dir/main.c.obj	e4ca0c87ee77c918
+839	918	7201203136569711	nonBlockingSocketClient.exe	142e9b06fd3aa0ef
+2	822	7201203267087166	CMakeFiles/nonBlockingSocketClient.dir/main.c.obj	e4ca0c87ee77c918
+822	899	7201203267813400	nonBlockingSocketClient.exe	142e9b06fd3aa0ef
+2	739	7201215280377471	CMakeFiles/nonBlockingSocketClient.dir/main.c.obj	e4ca0c87ee77c918
+739	817	7201215281117485	nonBlockingSocketClient.exe	142e9b06fd3aa0ef

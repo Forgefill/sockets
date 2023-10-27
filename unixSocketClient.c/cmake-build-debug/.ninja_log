@@ -1,0 +1,4 @@
+# ninja log v5
+1	404	7201156336573583	build.ninja	2073d195b43caac6
+2	952	7200461578487712	CMakeFiles/unixSocketClient_c.dir/main.c.obj	bcc2752221523ce9
+952	1247	7200461581426538	unixSocketClient_c.exe	b8998015f08bd979

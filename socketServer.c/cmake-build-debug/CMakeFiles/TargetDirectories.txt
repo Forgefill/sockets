@@ -1,0 +1,3 @@
+D:/Mykhailo_Space/projects/sockets/socketServer.c/cmake-build-debug/CMakeFiles/socketServer_c.dir
+D:/Mykhailo_Space/projects/sockets/socketServer.c/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Mykhailo_Space/projects/sockets/socketServer.c/cmake-build-debug/CMakeFiles/rebuild_cache.dir

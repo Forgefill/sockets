@@ -1,0 +1,4 @@
+# ninja log v5
+0	308	7201155138947336	build.ninja	4a30403f0ad929e3
+1	888	7200459325707389	CMakeFiles/unixSocketServer.dir/main.c.obj	2254c7c9782856e5
+1	245	7200459367995432	unixSocketServer.exe	7ef26f2adf98c519
